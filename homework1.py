@@ -11,3 +11,22 @@ name = "Michael"
 age = 19
 country = "Tanzania"
 print(f"My name is {name}, I am {age} years old and I live in {country}")
+
+# Arithmetic Operations
+a = 11
+b = 3
+
+# Addition
+print(a + b)
+
+# Subtraction
+print(a - b)
+
+# Multiplication
+print(a * b)
+
+# Division
+print(a / b)
+
+# Modulus
+print(a % b)
