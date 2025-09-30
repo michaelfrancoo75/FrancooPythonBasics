@@ -30,3 +30,14 @@ print(a / b)
 
 # Modulus
 print(a % b)
+
+# Functions
+def greet(name):
+    return f"Hello, {name}"
+
+def square(x):
+    return x * x
+
+# Examples
+print(greet("Michael"))
+print(square(5))
